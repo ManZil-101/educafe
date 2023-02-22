@@ -1,0 +1,96 @@
+
+
+
+
+
+.text {
+    font-family: 'sofia', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 20%;
+    font-weight: 900;
+    
+
+}
+.text a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.text a:hover {
+    color: rgb(215, 51, 86);
+}
+#about{
+    background: url(../../images/photo-1477959858617-67f85cf4f1df.png),no-repeat;
+    height: 80vh;
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+
+
+}
+
+.title {
+    margin: 20px 30px;
+    text-align: center;
+    font-family: "Comic sans MS";
+    font-weight: 700;
+    color: rgb(50, 120, 211);
+
+}
+
+p {
+     font-family:  "Comic sans MS";
+     text-align: justify;
+}
+
+
+.row {
+    padding-left: 5%;
+    display: flex;
+    width: fit-content;
+}
+
+.image{
+    background: url(../../images/photo-user1.jpg),no-repeat;
+    height: 60vh;
+
+}
+
+
+hr.new3 {
+    border-top: 5px dotted rgb(255, 0, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+ 
+  }
+  
+
+
+
+#team .wrapper{
+    background-image: linear-gradient(rgb(212, 205, 205),rgb(228, 228, 228));
+    border-radius: 20px;
+
+    box-shadow: rgba(0, 0, 0, 0.25) 10px 14px 28px, rgba(0, 0, 0, 0.22) 10px 10px 10px;
+    height: 70vh;
+    width:60vh;
+    justify-content: center;
+    text-align: center;
+    margin-right: 20px;
+}  
+ #team .image {
+    
+    margin:auto;
+    
+    border-radius: 50%;
+    background-image: url(../../images/photo-user3.jpg);
+    box-shadow: rgba(0, 0, 0, 0.25) 10px 14px 28px, rgba(0, 0, 0, 0.22) 10px 10px 10px;
+    height: 30vh;
+    width:30vh;
+ }
+
+ #team .description {
+    
+ }
+

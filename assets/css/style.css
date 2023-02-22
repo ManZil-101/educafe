@@ -46,6 +46,83 @@ a:visited {
 
 
 
+.certainWord h3 {
+        padding-top: 20%;
+        margin: 20px 30px;
+        text-align: center;
+        font-family: "Comic sans MS";
+        font-weight: 700;
+        color : rgb(153, 167, 249);
+ 
+}
+
+.buttonforit {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+.contactusbtn a {
+    text-decoration: none;
+    padding: 2px 15px 2px 15px;
+    font-family: "Comic sans MS";
+    font-weight: 700;
+    color: rgb(231, 233, 234);
+    font-size: 20px;
+    border: 3px;
+    background-color: rgb(153, 167, 249);
+    border-style: solid;
+   
+    border-radius: 50px;
+
+}
+.contactusbtn :hover {
+    background-color: rgb(218, 187, 63);
+    padding: 3px 20px 3px 20px;
+    border-color: transparent;
+    
+
+
+}
+.contactusbtn a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+
+}
+.eligibitytestbtn a {
+    text-decoration: none;
+    padding: 2px 15px 2px 15px;
+    font-family: "Comic sans MS";
+    font-weight: 700;
+    color: rgb(231, 233, 234);
+    font-size: 20px;
+    border: 3px;
+    background-color:rgb(153, 167, 249);
+    border-style: solid;
+    
+    border-radius: 50px;
+}
+
+.eligibitytestbtn :hover {
+    background-color: rgb(218, 187, 63);
+    padding: 3px 20px 3px 20px;
+    border-color: transparent;
+    
+
+
+}
+.eligibitytestbtn a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+
+}
+
+
+
 
 @media only screen and (max-width: 600px) 
 {
